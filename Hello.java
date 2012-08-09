@@ -1,6 +1,6 @@
 // Hello World Git project
 // by Larry Vail
-// August 7, 2012
+// August 9, 2012
 
 public class Hello {
 
